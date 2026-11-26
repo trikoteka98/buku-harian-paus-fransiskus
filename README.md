@@ -1,4 +1,4 @@
-# Il Diario
+# Buku Harian Paus Fransiskus (Il Diario)
 
 Aplikasi web statis (HTML + CSS + JS, tanpa proses build) yang merangkum isi
 **The Private Diary of Pope Francis** — buku yang terbit 24 November 2026.
@@ -8,9 +8,9 @@ Aplikasi web statis (HTML + CSS + JS, tanpa proses build) yang merangkum isi
 Buka `index.html` langsung di peramban, atau jalankan server statis:
 
 ```bash
-cd diary-francis
+cd buku-harian-paus-fransiskus
 ./run.sh
-# http://127.0.0.1:4173/diary-francis/preview.html
+# http://127.0.0.1:4173/buku-harian-paus-fransiskus/preview.html
 ```
 
 Atau buka `preview.html` langsung — sudah satu file, CSS/JS tertanam (butuh internet hanya untuk ikon Lucide; tanpa itu emoji dipakai).
